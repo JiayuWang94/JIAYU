@@ -1,8 +1,10 @@
 
 ## Jiayu Wang (王嘉裕)
-1. 主页地址：[https://gozhuyinglong.github.io](https://gozhuyinglong.github.io)
-2. 这个代码仓库里是博客中涉及的源码、文件等
-3. 如果对您有帮助，请给个Star，谢谢您！
+
+Jiayu received his bachelor’s in flight vehicle propulsion engineering from Northwestern Polytechnical University, Xi’an in 2014. He  
+
+and M.S. degrees in mechanical engineering and materials science from Tsinghua University, Beijing in 2011 and 2013, respectively. He received his Ph.D. degree in mechanical engineering from the University of California, Berkeley in 2018. Prior to joining the Hong Kong Polytechnic University in 2021, he worked as a postdoctoral researcher in Texas A&M University.
+Dr Ma’s research interest includes micro/nano scale mechanical and tribological behavior of human-machine interfaces, haptics metamaterials development, wearable devices with piezoelectret materials, and application of artificial intelligence in human-machine interactions. He is specifically interested in developing advanced human-machine mechanical interfaces that enable high-efficiency, broadband, and reliable human-machine communications, with emphasis on studying the multi-physics interactions in touch interface, modeling non-linearity and tribology of skin, developing next-generation tactile surface and haptic actuator, and application of artificial intelligence (AI).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
