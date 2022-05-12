@@ -1,12 +1,11 @@
 
 ## Jiayu Wang (王嘉裕)
 
-Jiayu received his bachelor’s in flight vehicle propulsion engineering from Northwestern Polytechnical University, Xi’an in 2014. He  
+Jiayu received his bachelor’s in flight vehicle propulsion engineering from Northwestern Polytechnical University, Xi’an in 2014. He  rescived his M.S. degrees in aeronautical Engineering from Moscow Aviation Institute, Moscow and Shanghai Jiao Tong University, Shanghai in 2020 and 2021, respectively. Currently, he works as a Ph.D. candidate in Trinity College Dublin, the University of Dublin under the support of China Scholarship Council (CSC)-Trinity College Dublin Joint Scholarship (2021).
 
-and M.S. degrees in mechanical engineering and materials science from Tsinghua University, Beijing in 2011 and 2013, respectively. He received his Ph.D. degree in mechanical engineering from the University of California, Berkeley in 2018. Prior to joining the Hong Kong Polytechnic University in 2021, he worked as a postdoctoral researcher in Texas A&M University.
-Dr Ma’s research interest includes micro/nano scale mechanical and tribological behavior of human-machine interfaces, haptics metamaterials development, wearable devices with piezoelectret materials, and application of artificial intelligence in human-machine interactions. He is specifically interested in developing advanced human-machine mechanical interfaces that enable high-efficiency, broadband, and reliable human-machine communications, with emphasis on studying the multi-physics interactions in touch interface, modeling non-linearity and tribology of skin, developing next-generation tactile surface and haptic actuator, and application of artificial intelligence (AI).
+Jiayu’s research interest includes micro/nano scale mechanical and tribological behavior of human-machine interfaces, haptics metamaterials development, wearable devices with piezoelectret materials, and application of artificial intelligence in human-machine interactions. He is specifically interested in developing advanced human-machine mechanical interfaces that enable high-efficiency, broadband, and reliable human-machine communications, with emphasis on studying the multi-physics interactions in touch interface, modeling non-linearity and tribology of skin, developing next-generation tactile surface and haptic actuator, and application of artificial intelligence (AI).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
